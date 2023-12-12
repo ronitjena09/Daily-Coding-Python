@@ -1,10 +1,14 @@
 #ZeroToPro
 ***Made this repository for daily coding practice and updates, everything Starting from scratch***
 
-*Contains topics, such as:*`
-  |
-  |----> Array
-  |----> String
-  |----> Matrix
-`
+*Contains Topics, such as:*
+```
+Practice/
+│
+├── Python
+│   ├── Array         
+│   ├── String   
+|   ├── Matrix     
+
+```
 **Thank You!**
